@@ -1,7 +1,7 @@
 # Final-Project-Tableau
 
 ## Project/Goals
-The Canadian real estate market has undergone significant transformations in the last four decades, shaping the economic landscape of the nation. This Tableau analysis delves into diverse datasets sourced from the Canadian Open Data portal, encompassing weekly earnings, housing constructions, house prices, and various indices. My exploration here seeks to unravel nuanced trends, correlations, and potential impacts on consumer behavior, particularly in the context of economic crises and market fluctuations. By harnessing the power of Tableau, this report aims to provide stakeholders, policymakers, and researchers with visual insights into the dynamic interplay between housing dynamics, economic indices, and societal spending patterns, fostering mY goal here is to provide a comprehensive understanding of the ever-evolving Canadian real estate ecosystem.
+The Canadian real estate market has undergone significant transformations in the last four decades, shaping the economic landscape of the nation. This Tableau analysis delves into diverse datasets sourced from the Canadian Open Data portal, encompassing weekly earnings, housing constructions, house prices, and various indices. My exploration here seeks to unravel nuanced trends, correlations, and potential impacts on consumer behavior, particularly in the context of economic crises and market fluctuations. By harnessing the power of Tableau, this report aims to provide stakeholders, policymakers, and researchers with visual insights into the dynamic interplay between housing dynamics, economic indices, and societal spending patterns. My goal here is to provide a comprehensive understanding of the ever-evolving Canadian real estate ecosystem.
 
 
 ## Process
